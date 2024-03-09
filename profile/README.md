@@ -26,6 +26,10 @@ With a team of over 30+ experts, we have the knowledge and skills, and our colle
 
 `Bagisto Extension` : [Blog for Bagisto](https://bagisto.com/en/extensions/blog-for-bagisto/)
 
-`WordPress Plugins` : [plugins](https://profiles.wordpress.org/webbytemplate/#content-plugins)
+`WordPress Plugins` : [plugins](https://profiles.wordpress.org/webbycrown/)
 
-`Career`: Explore a [career](https://www.webbycrown.com/career/) where your ideas are valued, and your potential is limitless. Join us on this exciting journey!
+### Careers:
+Explore a [career](https://www.webbycrown.com/career/) where your ideas are valued, and your potential is limitless. Join us on this exciting journey!
+
+<a href="https://www.webbycrown.com/"><img src="https://raw.githubusercontent.com/webbycrown/.github/main/GITHUB.png" alt="At Webby Crown, we believe in empowering talents. Explore a career where your ideas are valued, and your potential is limitless. Join us on this exciting journey!"></a>
+
